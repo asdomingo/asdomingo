@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp6Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/SWoRKslVGJJtqS8LqR/giphy.gif" width="350" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndXp4bmZ5bmR5Zng0NXp5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/SWoRKslVGJJtqS8LqR/giphy.gif" width="400" />
 </p>
 
 ## 🚀 Sobre mí
