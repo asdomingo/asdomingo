@@ -1,19 +1,25 @@
-# ⚡ ¡Hola! Soy Asier Domingo | Web Developer Apprentice
+# ⚡ Kaixo! Soy Asier | Web Developer 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=200&section=header&text=FullStack%20Development&fontSize=50&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=200&section=header&text=Web%20App%20Developer%20&fontSize=50&animation=fadeIn" width="100%" />
+</p>
+
+<p align="center">
+  <!-- SUSTITUYE LA URL DE ABAJO POR LA URL DE TU FOTO UNA VEZ LA SUBAS A GITHUB -->
+  <img src="https://via.placeholder.com/150" alt="Asier Domingo" width="150" style="border-radius: 50%; border: 3px solid #00b4d8;" />
 </p>
 
 ## 🚀 Sobre mí
-- 🎓 Actualmente realizando las **Prácticas de Desarrollo de Aplicaciones Web (DAW)**.
-- 💡 Tengo 24 años y me apasiona crear soluciones eficientes y visuales.
-- 🌍 Residente en el País Vasco, amante de la tecnología y el aprendizaje continuo.
+- 🎓 **En periodo de prácticas:** Desarrollo de Aplicaciones Web (DAW).
+- 🛠️ **Enfoque:** Creando soluciones con PHP, Java y bases de datos.
+- 🌍 **Localización:** País Vasco.
+- 🎂 **Edad:** 24 años.
 
 ---
 
 ## 🛠️ Stack Tecnológico
 
-### 💻 Lenguajes
+### 💻 Lenguajes & Frontend
 <p align="left">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -22,37 +28,41 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-### ⚙️ Herramientas y Entornos
+### ⚙️ Herramientas & DB
 <p align="left">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" />
-  <img src="https://img.shields.io/badge/FileZilla-BF0000?style=flat-square&logo=filezilla&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/FileZilla-BF0000?style=for-the-badge&logo=filezilla&logoColor=white" />
 </p>
 
 ---
 
 ## 🗣️ Idiomas
-- **Español:** Nativo 🇪🇸
-- **Euskera:** B2 (Euskalduna) 🟢
-- **Inglés:** Técnico (Lectura y Documentación) 🇬🇧
+> **"Hizkuntzak dira nire indarra"**
 
----
-
-## 📊 Estadísticas de GitHub (En movimiento)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_AQUI&theme=tokyonight" alt="Racha de GitHub" height="150" />
-</p>
+| Idioma | Nivel |
+| :--- | :--- |
+| **Castellano** | Nativo 🇪🇸 |
+| **Euskera** | B2 (Euskalduna) 🟢 |
+| **Inglés** | Técnico (Documentación) 🇬🇧 |
 
 ---
 
 ## 📫 Contacto
-¿Tienes algún proyecto interesante o simplemente quieres saludar?
-- 💬 Pregúntame sobre **PHP, Java o bases de datos**.
-- ⚡ Curiosidad: Siempre buscando nuevas herramientas para mejorar el workflow.
+¿Hablamos? Estoy disponible para nuevos retos y proyectos.
+
+- 📱 **Teléfono:** [+34 663 740 865](tel:663740865)
+- 📧 **Email:** [asierdomingo7@gmail.com](mailto:asierdomingo7@gmail.com)
+- 💬 Interesado en **Backend, SQL y Desarrollo FullStack**.
+
+<p align="right">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="60" />
+</p>
+
+---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndXp4bmZ5bmR5Zng0NXp5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N5YmR5Zng0NXp5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5Z3Z5JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" />
 </p>
