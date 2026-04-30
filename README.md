@@ -17,25 +17,18 @@
 ---
 
 ## 📊 Nivel de Skill (Uso de Programas)
-*Basado en tiempo de desarrollo y proyectos realizados:*
+*Indicadores visuales de competencia:*
 
 **Lenguajes & Frontend**
-- **PHP** 
-  ![85%](https://progress-bar.dev/85/?title=Expertise&color=777BB4)
-- **Java** 
-  ![75%](https://progress-bar.dev/75/?title=Expertise&color=ED8B00)
-- **JavaScript** 
-  ![70%](https://progress-bar.dev/70/?title=Expertise&color=F7DF1E)
-- **HTML / CSS** 
-  ![90%](https://progress-bar.dev/90/?title=Expertise&color=E34F26)
+- **PHP** &nbsp;&nbsp; ![PHP](https://img.shields.io/badge/-Avanzado-777BB4?style=flat)
+- **Java** &nbsp;&nbsp; ![Java](https://img.shields.io/badge/-Intermedio-ED8B00?style=flat)
+- **JavaScript** &nbsp;&nbsp; ![JS](https://img.shields.io/badge/-Intermedio-F7DF1E?style=flat&logoColor=black)
+- **HTML / CSS** &nbsp;&nbsp; ![HTML](https://img.shields.io/badge/-Avanzado-E34F26?style=flat)
 
 **Bases de Datos & Herramientas**
-- **PostgreSQL / MariaDB** 
-  ![80%](https://progress-bar.dev/80/?title=Usage&color=4169E1)
-- **Postman / APIs** 
-  ![85%](https://progress-bar.dev/85/?title=Usage&color=FF6C37)
-- **VS Code / FileZilla** 
-  ![95%](https://progress-bar.dev/95/?title=Usage&color=007ACC)
+- **PostgreSQL / MariaDB** &nbsp;&nbsp; ![DB](https://img.shields.io/badge/-Intermedio-4169E1?style=flat)
+- **Postman / APIs** &nbsp;&nbsp; ![Postman](https://img.shields.io/badge/-Avanzado-FF6C37?style=flat)
+- **VS Code / FileZilla** &nbsp;&nbsp; ![Tools](https://img.shields.io/badge/-Experto-007ACC?style=flat)
 
 ---
 
@@ -51,7 +44,7 @@
 ---
 
 ## 📫 Contacto Interactivo
-*Haz clic en los botones para contactar conmigo:*
+*Haz clic para contactar directamente:*
 
 <p align="left">
   <a href="mailto:asierdomingo7@gmail.com">
