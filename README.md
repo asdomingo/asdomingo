@@ -4,11 +4,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=200&section=header&text=Web%20App%20Developer%20&fontSize=50&animation=fadeIn" width="100%" />
 </p>
 
-<p align="center">
-  <!-- SUSTITUYE LA URL DE ABAJO POR LA URL DE TU FOTO UNA VEZ LA SUBAS A GITHUB -->
-  <img src="https://via.placeholder.com/150" alt="Asier Domingo" width="150" style="border-radius: 50%; border: 3px solid #00b4d8;" />
-</p>
-
 ## 🚀 Sobre mí
 - 🎓 **En periodo de prácticas:** Desarrollo de Aplicaciones Web (DAW).
 - 🛠️ **Enfoque:** Creando soluciones con PHP, Java y bases de datos.
