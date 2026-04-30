@@ -48,8 +48,6 @@
 
 ## 🌐 Idiomas
 
-> *"Hizkuntzak dira nire indarra"*  
-
 - 🇪🇸 **Castellano:** Nativo  
 - 🟢 **Euskera:** B2 (Euskalduna)  
 - 🇬🇧 **Inglés:** Técnico (documentación)  
