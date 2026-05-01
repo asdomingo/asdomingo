@@ -1,4 +1,4 @@
-# 👋 Hola, soy Asier Domingo | Web Developer  
+# Hola, soy Asier Domingo | Web Developer  
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,100:0077b6&height=220&section=header&text=Web%20App%20Developer&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
